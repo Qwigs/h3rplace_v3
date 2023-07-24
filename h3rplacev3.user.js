@@ -64,7 +64,7 @@ if (window.top !== window.self) {
                 method: 'GET',
                 responseType: 'blob',
                 // url: `http://localhost:8000/dgg-place-template-1x.png`,
-                url: `https://i.imgur.com/s6k1nVM.png`,
+                url: `https://i.imgur.com/RFFXe40.png`,
                 onload: function (response) {
                     let blob;
                     if (response.response instanceof Blob) {
